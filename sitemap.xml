@@ -14,5 +14,8 @@
 <url> <loc>https://rdbox-intec.github.io/homepage_jp/tags/ロボット/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rdbox-intec.github.io/homepage_jp/tags/ros/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rdbox-intec.github.io/homepage_jp/tags/群ロボット/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_jp/tags/ntp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_jp/tags/dns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_jp/tags/dhcp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rdbox-intec.github.io/homepage_jp/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
