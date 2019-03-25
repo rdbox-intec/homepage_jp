@@ -25066,7 +25066,7 @@ var NavBar = function NavBar(_ref) {
         to: "/",
         className: "navbar-item"
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
-        src: "https://rdbox-intec.github.io/homepage_jp/icons/icon-192x192.png"
+        src: "https://rdbox-intec.github.io/homepage_jp/icons/icon-512x512.png"
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("strong", null, "\xA0\xA0\xA0RDBOX")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("button", {
         className: "button navbar-burger " + (isActive ? 'is-active' : ''),
         "data-target": "navMenu",
@@ -27730,7 +27730,7 @@ var Footer = function Footer() {
 module.exports = {
   siteTitle: 'RDBOX (A Robotics Developers BOX) | ROSロボットのための、セキュアで拡張性の高いWi-FiネットワークとKubernetesクラスタを提供します。',
   // Site title.
-  siteTitleAlt: 'RDBOXは、ROS (Robot Operating System) ロボットのリソース全てを管理します。',
+  siteTitleAlt: 'RDBOXは、ROS (Robot Operating System) ロボットのリソース全てをKubernetesとスケーラブルなWi-Fiネットワークで管理します。',
   // Alternative site title for SEO.
   siteLogo: '/icons/icon-512x512.png',
   // Logo used for SEO and manifest.
@@ -27751,7 +27751,7 @@ module.exports = {
   userTwitter: '',
   userLocation: 'Tokyo, Japan',
   userDescription: '',
-  copyright: 'Copyright © RDBOX Project of INTEC Inc. 2019. All Rights Reserved.',
+  copyright: 'Copyright © RDBOX Project 2019. All Rights Reserved.',
   // Copyright string for the footer of the website and RSS feed.
   themeColor: '#00d1b2',
   // Used for setting manifest and progress theme colors.
