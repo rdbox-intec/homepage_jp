@@ -1349,7 +1349,7 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     className: "title has-text-centered has-text-weight-semibold is-size-1"
   }, "RDBOX"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-centered"
-  }, "~A Robotics Developers BOX~"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, "~ A Robotics Developers BOX|\u30A2\u30FC\u30EB\u30C7\u30A3\u30FC\u30DC\u30C3\u30AF\u30B9 ~"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-centered"
   }, title)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/rdbox-intec/rdbox",
