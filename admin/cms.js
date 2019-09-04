@@ -1349,11 +1349,11 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     href: "https://github.com/rdbox-intec/rdbox",
     target: "_blank"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "img/logo_orange.png",
-    width: "300px"
+    src: "img/mesh-wifi-top.png",
+    width: "400px"
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-centered"
-  }, "~ \u30A2\u30FC\u30EB\u30C7\u30A3\u30FC\u30DC\u30C3\u30AF\u30B9 ~"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, "RDBOX(\u30A2\u30FC\u30EB\u30FB\u30C7\u30A3\u30FC\u30FB\u30DC\u30C3\u30AF\u30B9) - A Robotics Developers BOX -"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-centered"
   }, title)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/rdbox-intec/rdbox",
@@ -25172,7 +25172,10 @@ var NavBar = function NavBar(_ref) {
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
         href: "https://rdbox-intec.github.io/homepage_en/",
         className: "navbar-item"
-      }, "English"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_SearchBox__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      }, "English"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+        href: "https://rdbox-intec.github.io/homepage_zh/",
+        className: "navbar-item"
+      }, "\u4E2D\u6587(Chinese)"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_SearchBox__WEBPACK_IMPORTED_MODULE_3__["default"], {
         searchIndex: data.siteSearchIndex.index
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
         href: "https://github.com/rdbox-intec/rdbox",
